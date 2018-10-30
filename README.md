@@ -36,8 +36,8 @@ shell easy demo
 
 ##　目录
 
-* [ ] `./shell/demo.sh` 基于shell脚本开发
-* [ ] `./node/demo.js` 基于Nodejs开发
+* [x] [./shell/demo.sh](https://github.com/mgss/bash-demo/blob/master/shell/demo.sh) 基于shell脚本开发
+* [x] [./node/demo.js](https://github.com/mgss/bash-demo/blob/master/node/demo.js) 基于Nodejs开发
 
 ## License
 
