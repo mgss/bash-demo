@@ -36,7 +36,7 @@ shell easy demo
 
 ##　目录
 
-* [ ] `./shell/demo.sh` 基于shell脚本开发
+* [ ] `./shell/demo.sh` 基于shell脚本开发
 * [ ] `./node/demo.js` 基于Nodejs开发
 
 ## License
