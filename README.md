@@ -39,7 +39,7 @@
  alert(string)
 ```
 
-##　功能2 - 简单HTTP服务器
+## 功能2 - 简单HTTP服务器
 
 **目录**
 * [x] [./node/server.js](https://github.com/mgss/bash-demo/blob/master/node/server.js)
